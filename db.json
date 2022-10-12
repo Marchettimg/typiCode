@@ -1,4 +1,9 @@
-{
+{   "login": [
+        {
+            "name": "Juan Perez",
+            "password": 123456
+        }           
+    ],            
     "users": [ 
         {
             "id": 1,
