@@ -1,4 +1,10 @@
-{   "login": [
+{   "auth": [
+        {
+            "name": "",
+            "password": 123456
+        }           
+    ],   
+      "login": [
         {
             "name": "Juan Perez",
             "password": 123456
