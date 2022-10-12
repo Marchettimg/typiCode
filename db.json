@@ -19,7 +19,7 @@
         {
             "id": 3,
             "name": "Carlos Martinez",
-            "rol": "Respuestero",
+            "rol": "Repuestero",
             "password": 456123,
             "category":"R-003",
             "avatar": null
