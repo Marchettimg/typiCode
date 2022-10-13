@@ -1,15 +1,4 @@
-{   "auth": [
-        {
-            "name": "Juan Perez",
-            "password": 123456
-        }  
-    ],   
-      "login": [
-        {
-            "name": "Juan Perez",
-            "password": 123456
-        }           
-    ],            
+{   
     "users": [ 
         {
             "id": 1,
@@ -36,7 +25,7 @@
             "avatar": null
         }
     ],
-"ordenesReposicion": [
+"ordenesReposicionDetalle": [
        {
      	"ordenNro": 12548975,
     	"siniestroNro": 21548,
@@ -109,5 +98,116 @@
      	    ]
      	}
      }
-    ] 
+    ],
+"ordenesReposicionTabla": [{
+      "OrdenNro": 12548975,
+      "Fecha Emisión": "04/10/2021",
+      "Siniestro": 21548,
+      "Poliza": 3251,
+      "Asegurado": "Juan Perez",
+      "Tipo de Orden": 12548975,
+      "Categoría": 12548975,
+      "Estado": "Pendiente"
+    },
+    {
+      "OrdenNro": 12548971,
+      "Fecha Emisión": "04/10/2021",
+      "Siniestro": 21548,
+      "Poliza": 3251,
+      "Asegurado": "Alfredo Perez",
+      "Tipo de Orden": 12548975,
+      "Categoría": 12548975,
+      "Estado": "Pendiente"
+    },
+    {
+      "OrdenNro": 12548972,
+      "Fecha Emisión": "04/10/2021",
+      "Siniestro": 21548,
+      "Poliza": 3251,
+      "Asegurado": "Juan Perez",
+      "Tipo de Orden": 12548975,
+      "Categoría": 12548975,
+      "Estado": "Pendiente"
+    },
+    {
+      "OrdenNro": 12548973,
+      "Fecha Emisión": "04/10/2021",
+      "Siniestro": 21548,
+      "Poliza": 3251,
+      "Asegurado": "Alfredo Perez",
+      "Tipo de Orden": 12548975,
+      "Categoría": 12548975,
+      "Estado": "Pendiente"
+    },
+    {
+      "OrdenNro": 12548974,
+      "Fecha Emisión": "04/10/2021",
+      "Siniestro": 21548,
+      "Poliza": 3251,
+      "Asegurado": "Juan Perez",
+      "Tipo de Orden": 12548975,
+      "Categoría": 12548975,
+      "Estado": "Pendiente"
+    },
+    {
+      "OrdenNro": 12548976,
+      "Fecha Emisión": "04/10/2021",
+      "Siniestro": 21548,
+      "Poliza": 3251,
+      "Asegurado": "Alfredo Perez",
+      "Tipo de Orden": 12548975,
+      "Categoría": 12548975,
+      "Estado": "Realizada"
+    },
+    {
+      "OrdenNro": 12548977,
+      "Fecha Emisión": "04/10/2021",
+      "Siniestro": 21548,
+      "Poliza": 3251,
+      "Asegurado": "Pablo Perez",
+      "Tipo de Orden": 12548975,
+      "Categoría": 12548975,
+      "Estado": "Realizada"
+    },
+    {
+      "OrdenNro": 12548978,
+      "Fecha Emisión": "04/10/2021",
+      "Siniestro": 21548,
+      "Poliza": 3251,
+      "Asegurado": "Juan Perez",
+      "Tipo de Orden": 12548975,
+      "Categoría": 12548975,
+      "Estado": "Realizada"
+    },
+    {
+      "OrdenNro": 12548979,
+      "Fecha Emisión": "04/10/2021",
+      "Siniestro": 21548,
+      "Poliza": 3251,
+      "Asegurado": "Pablo Perez",
+      "Tipo de Orden": 12548975,
+      "Categoría": 12548975,
+      "Estado": "Realizada"
+    },
+    {
+      "OrdenNro": 12548961,
+      "Fecha Emisión": "04/10/2021",
+      "Siniestro": 21548,
+      "Poliza": 3251,
+      "Asegurado": "Juan Perez",
+      "Tipo de Orden": 12548975,
+      "Categoría": 12548975,
+      "Estado": "Realizada"
+    },
+    {
+      "OrdenNro": 12548962,
+      "Fecha Emisión": "04/10/2021",
+      "Siniestro": 21548,
+      "Poliza": 3251,
+      "Asegurado": "Pablo Perez",
+      "Tipo de Orden": 12548975,
+      "Categoría": 12548975,
+      "Estado": "Realizada"
+    }
+  ]
 }
